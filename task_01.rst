@@ -8,7 +8,7 @@ Why I Love **Python**, a language worth knowing.
 Running It
 *******************************
 
-Python syntax is really quite simple to execute. Anyone can do it just by executing the ''python'' command on the command line and invoking the interpreter.
+Python syntax is really quite simple to execute. Anyone can do it just by executing the ``python`` command on the command line and invoking the interpreter.
 You can also execute python programs by calling the program filename such as:
 
 .. code:: console
