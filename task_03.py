@@ -2,11 +2,10 @@
 # -*- coding: utf-8 -*-
 """Making changes to this file."""
 
-CHARLIE = "Chocolate Factory"
+CHARLIE = "Brown"
 
 VIOLET = "Gray"
 
 PATRICIA = "Reichardt"
 
 LINUS = "van Pelt"
-
